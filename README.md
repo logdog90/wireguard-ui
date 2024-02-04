@@ -15,7 +15,7 @@ exit
 ```
 mkdir wireguard-ui
 cd wireguard-ui
-wget https://github.com/WeeJeWel/wg-easy/blob/master/docker-compose.yml
+wget https://github.com/logdog90/wireguard-ui/blob/main/docker-compose.yml
 nano docker-compose.yml
 ```
 
